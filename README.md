@@ -1,49 +1,7 @@
 # Online Arts Gallery Management System using MERN Stack 👨‍🎨👨‍🎨👨‍🎨
 
-**Visit Project⤵️**
-
-**🔗https://oagms.vercel.app/**
-
-**For Hosting(Heroku Alternative)⤵️**
-
-**Backend** : **```Render```** (First Response time⏰: 30sec approximately)
-**`Refresh the payment page for 2-3 times if its showing Error 404`**
-
-**Frontend** : **```Vercel```**
-
-# Prerequisites:
-
-```Install Node.Js```
 
 
-# Install Dependencies
-
-**For Backend** - `npm i`
-
-**For Frontend** - ```cd frontend``` ``` npm i```
-
-## Env Variables
-
-Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
-
-**Essential Variables**
-`PORT=
-DB_URI = 
-STRIPE_API_KEY= 
-STRIPE_SECRET_KEY= 
-JWT_SECRET=
-JWT_EXPIRE=
-COOKIE_EXPIRE=
-SMPT_SERVICE = 
-SMPT_MAIL= 
-SMPT_PASSWORD= 
-SMPT_HOST= 
-SMPT_PORT= 
-CLOUDINARY_NAME= 
-CLOUDINARY_API_KEY= 
-CLOUDINARY_API_SECRET= 
-FRONTEND= `
-_fill each filed with your info respectively_
 
 # Screenshots
 ![Screenshot 2022-11-17 003940](https://user-images.githubusercontent.com/77243269/202284497-0d602e99-32b4-4f4e-9d88-9d554e13efb3.png)
